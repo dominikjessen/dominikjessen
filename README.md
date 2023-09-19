@@ -8,16 +8,37 @@
 
 <details open>
   <summary><h2>💻 Tools & tech I love</h2></summary>
+  <h3>Frontend</h3>
   <ul>
     <li>Typescript</li>
-    <li>Javascript</li>
     <li>React</li>
     <li>Next.js</li>
+    <li>Zod</li>
     <li>CSS</li>
     <li>Tailwind</li>
+    <li>RadixUI</li>
+    <li>Framer Motion</li>
+    <li>Recharts</li>
+  </ul>
+  <h3>Backend</h3>
+  <ul>
+    <li>Typescript</li>
+    <li>Next.js</li>
     <li>Node.js</li>
+    <li>Fastify</li>
     <li>Supabase</li>
   </ul>
+  <h3>Infra & deployments</h3>
+  <ul>
+    <li>Vercel</li>
+  </ul>
+  <h3>Tools & software</h3>
+  <ul>
+    <li>Figma</li>
+    <li>Linear</li>
+    <li>Notion</li>
+  </ul>
+
 </details>
 
 <details>
