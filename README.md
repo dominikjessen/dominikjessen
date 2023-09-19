@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dominikjessen/dominikjessen/public/CoverImage_GH.png" alt="Hi, I'm Dominik" />
+  <img src="https://github.com/dominikjessen/dominikjessen/blob/main/public/CoverImage_GH.png" alt="Hi, I'm Dominik" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <details open>
-  <summary><h2>Technologies & tools I love</h2></summary>
+  <summary><h2>💻 Tools & tech I love</h2></summary>
   <ul>
     <li>Typescript</li>
     <li>Javascript</li>
@@ -21,9 +21,8 @@
 </details>
 
 <details>
-  <summary><h2>It's not just about code</h2></summary>
+  <summary><h2>🤗 It's not only about code</h2></summary>
   <h3>Currently I am...</h3>
-
   <ul>
     <li>Watching - One Piece Live Action on Netflix</li>
     <li>Playing - Octopath Traveler 2 on Switch</li>
