@@ -3,8 +3,11 @@
 </p>
 
 <p align="center" style="font-size: 16px">
-  I am a product-minded software engineer currently splitting my time between Amsterdam & Hamburg (I guess I like canals 😄). For the past 3+ years I've held Product Management positions at startups of various sizes around Europe but I've returned to my roots as an engineer. I'm mostly building different tools to solve personal problems and things to tinker around with technologies.
+  I am a product-minded software engineer currently splitting my time between Amsterdam & Hamburg (I guess I like canals 😄). After over 3 years as a Product Manager in different startups, I've decided to switch back to Engineering to get back into the action. Recently, I've mostly been building passion projects and tools to solve personal problems and love to tinker with new technologies. Feel free to check out any of my projects and let me know what you think about them.
 </p>
+<a href="https://dominikjessen.com">
+  Find all my projects on my website!
+</a>
 
 <details open>
   <summary><h2>💻 Tools & tech I love</h2></summary>
@@ -56,10 +59,10 @@
 
 <details>
   <summary><h2>🕺🏼 It's not only about code</h2></summary>
-  <h3>Currently I am...</h3>
+  <h3>When I'm not coding, I am currently...</h3>
   <ul>
-    <li>Watching - One Piece Live Action on Netflix</li>
-    <li>Playing - Octopath Traveler 2 on Switch</li>
+    <li>Watching - The Bear on Netflix</li>
+    <li>Playing - Alan Wake 2 on PS5</li>
     <li>Listening to - Jungle by Petit Biscuit</li>
     <li>Reading - Project Hail Mary by Andy Weir</li>
     <li>Sipping - 1 cup of coffee a day</li>
