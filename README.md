@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="font-size: 16px">
-  I am a product-minded software engineer currently splitting my time between Amsterdam & Hamburg (I guess I like canals 😄). After over 3 years as a Product Manager in different startups, I've decided to switch back to Engineering to get back into the action. Recently, I've mostly been building passion projects and tools to solve personal problems and love to tinker with new technologies. Feel free to check out any of my projects and let me know what you think about them.
+  I am a product-minded software engineer currently splitting my time between Amsterdam & Hamburg. After over 3 years as a Product Manager in different startups, I've decided to get back into the action of Software Engineering, specifically focusing on Frontend-leaning Fullstack Development. Recently, I've mostly been building passion projects and tools to solve personal problems and love to tinker with new technologies. Feel free to check out any of my projects and let me know what you think about them.
 </p>
 <a href="https://dominikjessen.com">
   Find all my projects on my website!
