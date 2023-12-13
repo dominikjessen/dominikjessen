@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="font-size: 16px">
-  I am a product-minded software engineer currently splitting my time between Amsterdam & Hamburg. After over 3 years as a Product Manager in different startups, I've decided to get back into the action of Software Engineering, specifically focusing on Frontend-leaning Fullstack Development. Recently, I've mostly been building passion projects and tools to solve personal problems and love to tinker with new technologies. Feel free to check out any of my projects and let me know what you think about them.
+  I am a product-minded software engineer currently splitting my time between Amsterdam & Hamburg. After over 3 years as a Product Manager in different startups, I've decided to get back into the action of Software Engineering. Recently, I've mostly been building side projects and tools to solve personal problems, check them out below. Most of my serious projects are built using Next.js (fullstack) with SQL databases and deployed on either Vercel or Fly.io. I do love to tinker with new technologies - recently I rebuilt the same super simple weather app with Next, Remix, Svelte, and Vue. Feel free to check out any of my projects and let me know what you think about them.
 </p>
 <a href="https://dominikjessen.com">
   Find all my projects on my website!
