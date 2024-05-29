@@ -3,7 +3,11 @@
 </p>
 
 <p align="center" style="font-size: 16px">
-  I'm a product-minded software engineer with a passion for building user-centric products and tinkering with new technologies. Currently, I'm a fullstack engineer at Vesper helping professionals navigate commodities markets.
+  I'm a product-minded software engineer with a passion for building user-centric products and tinkering with new technologies. I also used to work as a Product Manager for 3+ years in the past so I don't mind splitting my time between VSCode, Figma, or even Jira. Whenever I feel like touching more code after work, I enjoy building small personal projects primarily using Next.js, TypeScript, and a SQL database.
+</p>
+
+<p align="center" style="font-size: 16px">
+  Currently, I'm a fullstack engineer at Vesper helping professionals navigate commodities markets. Vesper is a data intelligence tools that helps everyone who deals with commodities make better decisions. At work my main stack consists of Vue.js, TypeScript, Laravel, and MySQL.
 </p>
 
 <details open>
