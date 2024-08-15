@@ -62,7 +62,6 @@
   <h3>When I'm not coding, I am currently...</h3>
   <ul>
     <li>Watching - The Bear on Netflix</li>
-    <li>Playing - Diablo 4 on PS5</li>
     <li>Listening to - Moths by Ry X</li>
     <li>Reading - Project Hail Mary by Andy Weir</li>
     <li>Sipping - 1 cup of coffee a day (or 2...)</li>
