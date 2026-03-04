@@ -3,11 +3,12 @@
 </p>
 
 <p align="center" style="font-size: 16px">
-  I'm a product-minded software engineer with a passion for building user-centric products and tinkering with new technologies. I also used to work as a Product Manager for 3+ years in the past so I don't mind splitting my time between VSCode, Figma, or even Jira. Whenever I feel like touching more code after work, I enjoy building small personal projects primarily using Next.js, TypeScript, and a SQL database.
+Product-minded engineer who loves to build products - from strategy to production. I combine a product management background with full-stack engineering to own projects end-to-end: understanding the problem, shaping the solution, and building it myself.
+
 </p>
 
 <p align="center" style="font-size: 16px">
-  Currently, I'm a fullstack engineer at Vesper helping professionals navigate commodities markets. Vesper is a data intelligence tools that helps everyone who deals with commodities make better decisions. At work my main stack consists of Vue.js, TypeScript, Laravel, and MySQL.
+  Currently Senior Software Engineer at Vesper, building data intelligence tools for commodities markets with Vue.js, TS, and Laravel. Outside work, I build side projects - mostly with Next.js, TypeScript, and a healthy dose of LLMs.
 </p>
 
 <details open>
@@ -55,15 +56,4 @@
     <a href="https://chat.openai.com/" target="_blank"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"></a>
     <a href="https://www.apple.com/macos/ventura/" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="MacOS" /></a>
   </div>
-</details>
-
-<details>
-  <summary><h2>🕺🏼 It's not only about code</h2></summary>
-  <h3>When I'm not coding, I am currently...</h3>
-  <ul>
-    <li>Watching - The Bear on Netflix</li>
-    <li>Listening to - Moths by Ry X</li>
-    <li>Reading - Project Hail Mary by Andy Weir</li>
-    <li>Sipping - 1 cup of coffee a day (or 2...)</li>
-  </ul>
 </details>
