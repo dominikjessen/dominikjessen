@@ -8,7 +8,7 @@ Product-minded engineer who loves to build products - from strategy to productio
 </p>
 
 <p align="center" style="font-size: 16px">
-  Currently Senior Software Engineer at Vesper, building data intelligence tools for commodities markets with Vue.js, TS, and Laravel. Outside work, I build side projects - mostly with Next.js, TypeScript, and a healthy dose of LLMs.
+  Currently, I'm a Senior Product Engineer at n8n, where I help make n8n Cloud the best place to run n8n and help people automate their workflows at scale with ease. Outside work, I build side projects - mostly with Next.js, TypeScript, and a healthy dose of LLMs.
 </p>
 
 <details open>
